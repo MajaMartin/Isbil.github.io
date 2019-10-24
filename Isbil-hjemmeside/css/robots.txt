@@ -1,0 +1,5 @@
+# robots.txt til http://bymatildadenmark.com/Isbil-hjemmeside/
+
+
+User-agent: *
+Disallow: /
